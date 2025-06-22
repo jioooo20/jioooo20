@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jio</h1>
+<h1 align="center">Hi 👋, I'm Yeon</h1>
 
-🌱 I’m currently learning **Back End Web Development**  
+🌱 I’m currently learning **Full Stack Web Development**  
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ---
@@ -46,23 +46,19 @@
 
 ### 📊 My GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jioooo20&show_icons=true&theme=dark&locale=en&layout=compact" alt="jioooo20" />
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jioooo20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jioooo20&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-<br><br><br><br><br><br><br>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jioooo20&show_icons=true&theme=dark&locale=en" alt="jioooo20" />
+<br>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jioooo20&theme=dark" alt="jioooo20" />
 </p>
 
-<br><br><br><br><br><br><br><br>
-
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jioooo20&theme=dark" alt="jioooo20" />
-</p>
-
-<br><br><br><br><br><br><br><br><br><br>
+<br>
 
 ---
 
